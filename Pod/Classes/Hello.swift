@@ -1,5 +1,5 @@
 import Foundation
 
-public func secondPodAction() {
+public func printSecond() {
     print("Second")
 }
